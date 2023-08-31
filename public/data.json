@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Nike Sweaters",
+      "price": 10,
+      "img": "https://i.pinimg.com/originals/f8/68/a4/f868a4b2e1b010d759c71c0e9e098c35.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "adidas jacket",
+      "price": 20,
+      "img": "https://i.pinimg.com/originals/8e/6e/fd/8e6efd93a952d258d655df4fd63d96bb.jpg",
+      "quanty": 1
+    },
+  
+    {
+      "id": 3,
+      "name": "Nike T-shirt",
+      "price": 27,
+      "img": "https://i.pinimg.com/originals/a0/84/df/a084df2af9d6eec80bdd3792a924fab6.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "Outfits",
+      "price": 18,
+      "img": "https://i.pinimg.com/originals/ed/35/af/ed35af058bc4a7df5f9323b2b63b22c0.jpg",
+      "quanty": 1
+    }
+  ]
